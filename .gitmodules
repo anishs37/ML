@@ -10,3 +10,6 @@
 [submodule "ALERTS-App"]
 	path = ALERTS-App
 	url = https://github.com/ALERTS-Technologies/ALERTS-App
+[submodule "ISEF-2022"]
+	path = ISEF-2022
+	url = https://github.com/anishs37/ISEF-2022
