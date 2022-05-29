@@ -1,4 +1,3 @@
-# ML
-Some ML algos/projects I implement.
+# Machine Learning
 
-NOTE: Some projects may be tutorials from Youtube or other sources. Additionally, this is an out-dated repository and more changes will be committed soon :))
+This repository contains some of the machine learning projects I've completed over the past two years. Some of the smaller projects can be found in their own file, while larger projects can be located in submodules/folders. If you click on a submodule and get a 404 page, it means that you do not have access to that sub-repository, which is because application development has not been completed.
