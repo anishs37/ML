@@ -4,3 +4,6 @@
 [submodule "RSNA-pneumonia"]
 	path = RSNA-pneumonia
 	url = https://github.com/anishs37/RSNA-pneumonia
+[submodule "ctrl-shift-eye"]
+	path = ctrl-shift-eye
+	url = https://github.com/anishs37/ctrl-shift-eye
