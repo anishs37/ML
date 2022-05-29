@@ -7,3 +7,6 @@
 [submodule "ctrl-shift-eye"]
 	path = ctrl-shift-eye
 	url = https://github.com/anishs37/ctrl-shift-eye
+[submodule "ALERTS-App"]
+	path = ALERTS-App
+	url = https://github.com/ALERTS-Technologies/ALERTS-App
