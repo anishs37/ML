@@ -1,3 +1,6 @@
 [submodule "TJML-UNet-Competition"]
 	path = TJML-UNet-Competition
 	url = https://github.com/anishs37/TJML-UNet-Competition
+[submodule "RSNA-pneumonia"]
+	path = RSNA-pneumonia
+	url = https://github.com/anishs37/RSNA-pneumonia
